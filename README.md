@@ -1,9 +1,8 @@
 Algos in Python
 ======
 
-Implementations of a few algorithms and datastructures for fun and profit!
+Implementations of a various algorithms and datastructures!
 
-Completed
 ---
 - Karatsuba Multiplication
 - Basic Sorting
@@ -42,13 +41,3 @@ Completed
   - String Reverse
   - Parenthesis Matching
   - Infix to Postfix
-
-
-Tests
----
-    python -m tests.graph_test
-    python -m tests.digraph_test
-    python -m tests.graph_algorithms_test
-    python -m tests.heap_test
-    python -m tests.unionfind_test
-    python -m tests.singly_linked_list_test
