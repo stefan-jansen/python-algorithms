@@ -1,7 +1,7 @@
-Algos in Python
+Algorithms in Python
 ======
 
-Implementations of a various algorithms and datastructures!
+Implementation of various algorithms and data structures!
 
 ---
 - Karatsuba Multiplication
